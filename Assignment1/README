@@ -1,0 +1,15 @@
+PROBLEM 1
+
+- Execution Instructions
+  
+   python3 crc_checksum.py input1
+
+- USED PYTHON 3
+
+PROBLEM 2
+
+- Execution Instructions
+  
+   python3 hamming_code.py
+
+- USED PYTHON 3
